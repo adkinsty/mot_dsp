@@ -1,0 +1,16 @@
+	response	seq_eight	seq_five	seq_four	seq_labels	seq_one	seq_seven	seq_six	seq_three	seq_two	subject
+0	7	2	1	2	random	4	3	4	3	1	102
+1	6	1	4	2	random	3	2	3	4	1	102
+2	7	4	2	3	random	2	3	1	1	4	102
+3	5	1	2	1	random	4	4	3	3	2	102
+4	7	4	2	3	random	2	3	1	1	4	102
+5	7	4	1	4	random	2	2	3	1	3	102
+6	2	4	1	4	random	1	3	2	3	2	102
+7	5	4	2	3	random	1	3	1	2	4	102
+8	1	3	3	2	A	2	4	1	4	1	102
+9	1	2	2	4	B	4	1	3	1	3	102
+10	4	4	3	1	random	3	1	2	4	2	102
+11	2	1	4	1	random	3	3	2	2	4	102
+12	1	1	2	1	C	3	3	4	4	2	102
+13	7	2	1	2	random	1	3	4	3	4	102
+14	5	1	4	2	random	4	3	2	1	3	102
